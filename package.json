@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.15.0",
     "canvas": "^2.11.2",
     "formidable": "^3.5.1",
     "katex": "^0.16.8",
@@ -38,6 +39,6 @@
     "typescript": "^5.1.6"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   }
 }
